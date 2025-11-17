@@ -1,9 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Subramanyam;Full+Stack+Developer;Welcome+to+my+GitHub!)
 
-![GitHub Banner](https://imgur.com/a2JZL9k.jpg)
+![GitHub Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc4bTg1aWhjaG5yOWkzZDdhYTM5bzJycW9xeG1qd3l1d2ZrODFqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-# 👋 Hi, I'm Subramanyam
-
+<!-- Heading with Gradient -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff0080, #00bfff); -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm Subramanyam
+  </span>
+</h1>
 ### 🛠 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
