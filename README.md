@@ -10,7 +10,11 @@
 </h1>
 ### 🛠 Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Subramanyam;Full+Stack+Developer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6A00&center=true&vCenter=true&width=500&lines=Hi+I'm+Subramanyam;Full+Stack+Developer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+I'm+Subramanyam;Full+Stack+Developer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2ED1&center=true&vCenter=true&width=500&lines=Hi+I'm+Subramanyam;Full+Stack+Stack+Developer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Hi+I'm+Subramanyam;Full+Stack+Developer;Welcome+to+my+GitHub!" />
 </div>
 
 ---
